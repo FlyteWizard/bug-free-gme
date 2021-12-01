@@ -10,6 +10,10 @@ Will you be able to get to the end screen?
 
 > You can play the game entirely on keyboard, mouse, or both.
 
+## Play
+
+You can find the game available for download here: [https://flytewizard.itch.io/bug-free-gme](https://flytewizard.itch.io/bug-free-gme).
+
 ## Game Off 2021
 
 This game was created during the Game Off 2021. For more information, consult the following link: [https://itch.io/jam/game-off-2021](https://itch.io/jam/game-off-2021).
