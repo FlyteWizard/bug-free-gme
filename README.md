@@ -12,7 +12,7 @@ Will you be able to get to the end screen?
 
 ## Game Off 2021
 
-The game was created during the Game Off 2021. For more information, consult the following link: [https://itch.io/jam/game-off-2021](https://itch.io/jam/game-off-2021).
+This game was created during the Game Off 2021. For more information, consult the following link: [https://itch.io/jam/game-off-2021](https://itch.io/jam/game-off-2021).
 
 ## Built With
 
